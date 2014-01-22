@@ -1,4 +1,4 @@
 bashPrefs
 =========
 
-All setting files from my ~/ 
+All config files from ~/ 
