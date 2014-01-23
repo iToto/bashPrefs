@@ -76,3 +76,7 @@ export PATH="/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"
 # export SSH_KEY_PATH="~/.ssh/dsa_id"
 
 export PATH=/usr/local/bin:$PATH
+
+# Perl stuff for VN Git Server
+export LC_CTYPE=en_US.UTF-8
+export LC_ALL=en_US.UTF-8
